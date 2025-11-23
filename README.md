@@ -50,7 +50,7 @@ A functional web application built with **Streamlit** for small businesses to re
 - Clean and minimal UI  
 - PostgresSQL
 
-**Repo:** *(Add your GitHub link once you upload it)*
+**Repo:** https://github.com/renecano/ventas-inventario-streamlit
 
 ---
 
