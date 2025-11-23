@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm René Cano
 
-<!--
-**renecano/renecano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
+I’m passionate about **innovation, data analysis, and artificial intelligence**, always looking for ways to apply technology to solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+My background combines technical training with practical experience in projects focused on data-driven solutions, software development, and applied technology.
+
+I’ve earned certifications in:
+- **Power BI**
+- **Google Cloud**
+- **Oracle Cloud Infrastructure**
+- **Data Science**
+- **Machine Learning**
+- **Applied Artificial Intelligence**
+
+These have strengthened my skills in data analysis, visualization, and information exploitation for decision-making.
+
+---
+
+## 🔹 Technical Skills
+### **Languages**
+- Python  
+- C++  
+- Java  
+- HTML  
+- MATLAB  
+- (and basic knowledge of C)
+
+### **Tools & Technologies**
+- Streamlit  
+- SQL  
+- Power BI  
+- Git & GitHub  
+- Cloud platforms (GCP, OCI)  
+- IoT prototyping (ESP8266, sensors, circuits)
+
+---
+
+## 🔹 Featured Project
+### **📌 Sales & Inventory Registration System (Streamlit App)**  
+A functional web application built with **Streamlit** for small businesses to record sales, view metrics, and generate simple reports.
+
+**Features:**
+- Product registration  
+- Sales log  
+- Dynamic dashboards  
+- Clean and minimal UI  
+- PostgresSQL
+
+**Repo:** *(Add your GitHub link once you upload it)*
+
+---
+
+## 🔹 What I'm Working On
+- Expanding my Streamlit system with authentication and analytics  
+- Practicing algorithms and data structures  
+- Building IoT prototypes with ESP8266 and sensors  
+- Developing small software projects in Python and Java  
+- Exploring real applications of machine learning
+
+---
+
+## 🔹 My Focus Areas
+- Artificial Intelligence  
+- Big Data  
+- Backend Development  
+- Practical software solutions with real impact  
+
+---
+
+## 🔹 Contact
+- **LinkedIn:** www.linkedin.com/in/rene-emiliano-cano-fuentes
+- **Email:** renecano.f@gmail.com
+
+---
+
+Thanks for visiting my profile!
