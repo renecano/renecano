@@ -59,9 +59,7 @@ A functional web application built with **Streamlit** for small businesses to re
 A complete IoT system that monitors temperature and humidity using an **ESP8266** with a **DHT11** sensor.  
 Sensor data is transmitted via **MQTT**, stored in **SQLite**, and displayed on a real-time dashboard built with **Flask + Bootstrap + Chart.js**.
 
----
-
-## 🔑 Key Features
+## Key Features
 
 - **ESP8266 firmware (C++)** with MQTT JSON publishing  
 - **Python backend** with MQTT subscriber  
