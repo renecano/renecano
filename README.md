@@ -54,6 +54,25 @@ A functional web application built with **Streamlit** for small businesses to re
 
 ---
 
+# 🌱 IoT Plant Monitoring System (ESP8266 + MQTT + Flask + SQLite)
+
+A complete IoT system that monitors temperature and humidity using an **ESP8266** with a **DHT11** sensor.  
+Sensor data is transmitted via **MQTT**, stored in **SQLite**, and displayed on a real-time dashboard built with **Flask + Bootstrap + Chart.js**.
+
+---
+
+## 🔑 Key Features
+
+- **ESP8266 firmware (C++)** with MQTT JSON publishing  
+- **Python backend** with MQTT subscriber  
+- **Local SQLite data storage**  
+- **Real-time web dashboard**  
+- **Clean, modular, scalable architecture**
+
+**Repo:** https://github.com/renecano/IoT-Plant-Monitoring-System-ESP8266-MQTT-Flask-SQLite
+
+---
+
 ## 🔹 What I'm Working On
 - Expanding my Streamlit system with authentication and analytics  
 - Practicing algorithms and data structures  
