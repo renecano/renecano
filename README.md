@@ -71,6 +71,25 @@ Sensor data is transmitted via **MQTT**, stored in **SQLite**, and displayed on 
 
 ---
 
+### 📌 Fork/Join DAG Visualizer (Java + JavaFX)
+An interactive visualization tool that loads **Directed Acyclic Graphs (DAGs)**, draws them using a layered layout in **JavaFX**, and automatically generates **Fork/Join parallel code** from their structure.  
+Includes a step-by-step execution simulator with colored branches and full graph validation.
+
+**Achievements:**  
+- **Top 3 Digital Prototype – Expo Ingeniería, Tec de Monterrey Campus Toluca**
+
+**Features:**
+- DAG loading from `.txt` adjacency matrices  
+- Automatic BFS-based level computation  
+- JavaFX graph rendering with animations  
+- Auto-generated Fork/Join Java code  
+- Parallel execution simulation with branch coloring  
+- Structural validation (cycles, disconnected nodes, incorrect joins)
+
+**Repo:** https://github.com/renecano/grafos-fork-join-visualizer
+
+---
+
 ## 🔹 What I'm Working On
 - Expanding my Streamlit system with authentication and analytics  
 - Practicing algorithms and data structures  
