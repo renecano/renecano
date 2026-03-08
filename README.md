@@ -1,6 +1,6 @@
 # Hi, I'm René Cano
 
-I'm a 3rd-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
+I'm a 4rd-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
 I’m passionate about **innovation, data analysis, and artificial intelligence**, always looking for ways to apply technology to solve real problems.
 
 ---
