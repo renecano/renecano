@@ -1,6 +1,6 @@
 # Hi, I'm René Cano
 
-I'm a 4th-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
+I'm a 5th-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
 I build real-world systems at the intersection of **reinforcement learning, full-stack development, and applied data engineering**.
 
 ---
