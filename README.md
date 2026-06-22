@@ -27,6 +27,7 @@ I've earned certifications in:
 ### Tools & Technologies
 - Stable-Baselines3 · Gymnasium · SUMO/TraCI
 - Streamlit · FastAPI · Flask · Next.js
+- OpenCV · MediaPipe · PyTorch · HuggingFace Transformers
 - MySQL · PostgreSQL · SQLite
 - Power BI · Git & GitHub
 - Cloud platforms (GCP, OCI)
@@ -52,6 +53,7 @@ PPO-based RL agent that optimizes traffic signals and autonomous vehicle flow at
 ---
 
 ### 🔬 CESVI RAT — Traffic Accident Reconstruction System
+
 Forensic full-stack platform built for **CESVI México** (Centro de Experimentación y Seguridad Vial). Handles deformation measurements, velocity calculations, and detailed incident reporting.
 
 - 54-table MySQL schema — designed and documented as DB coordinator
@@ -63,7 +65,34 @@ Forensic full-stack platform built for **CESVI México** (Centro de Experimentac
 
 ---
 
+### 🧠 FakeNewsDetector AI — RoBERTa + NLP Heuristics
+
+Misinformation detection system fine-tuned on RoBERTa that classifies news as Reliable, Doubtful, or Fake — including pseudoscientific content that mimics legitimate journalism.
+
+- **99.84% validation accuracy** on ~8,500 news articles
+- Neural + heuristic fusion (RoBERTa 80% / regex 20%)
+- Pseudoscience pattern detection via custom regex
+- Gradio web interface + REST API
+
+**Repo:** https://github.com/renecano/FakeNewsDetectorAI
+
+---
+
+### 👁️ NeuroFocusAI — Student Attention Analysis
+
+Real-time computer vision system that classifies student attention states and generates session summaries from a standard webcam feed.
+
+- 4-state classification: Focused, Distracted, Fatigued, Stressed
+- MediaPipe 468-point facial landmark detection
+- Blink rate tracking and head pose estimation
+- Web dashboard for session visualization
+
+**Repo:** https://github.com/renecano/NeuroFocusAI
+
+---
+
 ### 📌 Sales & Inventory Registration System (Streamlit)
+
 Web application for small businesses to record sales, manage products, and view basic metrics.
 
 - Product registration · Sales log · Dashboards · PostgreSQL support
@@ -73,6 +102,7 @@ Web application for small businesses to record sales, manage products, and view 
 ---
 
 ### 🌱 IoT Plant Monitoring System (ESP8266 + MQTT + Flask + SQLite)
+
 End-to-end IoT system monitoring temperature and humidity. Data sent via MQTT, stored in SQLite, displayed on a real-time Flask dashboard.
 
 - ESP8266 firmware (C++) · Python MQTT subscriber · Chart.js dashboard
@@ -102,6 +132,7 @@ Interactive tool that loads DAGs, renders them in JavaFX, and generates Fork/Joi
 ## 🔹 Focus Areas
 
 - Reinforcement Learning & AI Systems
+- Computer Vision & NLP
 - Full-Stack Web Development
 - Database Architecture & Forensic Data Platforms
 - Practical software solutions with real impact
