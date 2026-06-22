@@ -1,14 +1,15 @@
 # Hi, I'm René Cano
 
-I'm a 4rd-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
-I’m passionate about **innovation, data analysis, and artificial intelligence**, always looking for ways to apply technology to solve real problems.
+I'm a 4th-semester student of **Computer Technologies Engineering (ITC)** at *Tecnológico de Monterrey*.  
+I build real-world systems at the intersection of **reinforcement learning, full-stack development, and applied data engineering**.
 
 ---
 
 ## 🔹 About Me
-My background combines technical training with practical experience in projects focused on data-driven solutions, software development, and applied technology.
 
-I’ve earned certifications in:
+My background combines technical training with hands-on experience in projects developed for real clients and presented at institutional competitions. I enjoy turning engineering theory into working systems.
+
+I've earned certifications in:
 - **Power BI**
 - **Google Cloud**
 - **Oracle Cloud Infrastructure**
@@ -16,101 +17,99 @@ I’ve earned certifications in:
 - **Machine Learning**
 - **Applied Artificial Intelligence**
 
-These have strengthened my skills in data analysis, visualization, and information exploitation for decision-making.
-
 ---
 
 ## 🔹 Technical Skills
-### **Languages**
-- Python  
-- C++  
-- Java  
-- HTML  
-- MATLAB  
-- (and basic knowledge of C)
 
-### **Tools & Technologies**
-- Streamlit  
-- SQL  
-- Power BI  
-- Git & GitHub  
-- Cloud platforms (GCP, OCI)  
+### Languages
+- Python · PHP (Laravel) · Java · C++ · HTML/SCSS · MATLAB · C
+
+### Tools & Technologies
+- Stable-Baselines3 · Gymnasium · SUMO/TraCI
+- Streamlit · FastAPI · Flask · Next.js
+- MySQL · PostgreSQL · SQLite
+- Power BI · Git & GitHub
+- Cloud platforms (GCP, OCI)
 - IoT prototyping (ESP8266, sensors, circuits)
 
 ---
 
-## 🔹 Featured Project
-### **📌 Sales & Inventory Registration System (Streamlit App)**  
-A functional web application built with **Streamlit** for small businesses to record sales, view metrics, and generate simple reports.
+## 🔹 Featured Projects
 
-**Features:**
-- Product registration  
-- Sales log  
-- Dynamic dashboards  
-- Clean and minimal UI  
-- PostgresSQL
+### 🥇 UrbanMind X — Reinforcement Learning Traffic Control
+> **1st Place – Expo Ingenierías 2026, Tec de Monterrey Campus Toluca**
+
+PPO-based RL agent that optimizes traffic signals and autonomous vehicle flow at a real Toluca intersection (Pino Suárez × Carranza), achieving a **78.2% reduction in average wait time** (303 s → 66 s).
+
+- PPO agent trained with Stable-Baselines3 + Gymnasium
+- Real intersection microsimulation via SUMO/TraCI
+- Three.js animated dashboard deployed on Netlify
+- APA 7 journal article + scientific poster
+
+**Live demo:** https://anmindx.netlify.app  
+**Repo:** https://github.com/renecano/urbanmindx
+
+---
+
+### 🔬 CESVI RAT — Traffic Accident Reconstruction System
+Forensic full-stack platform built for **CESVI México** (Centro de Experimentación y Seguridad Vial). Handles deformation measurements, velocity calculations, and detailed incident reporting.
+
+- 54-table MySQL schema — designed and documented as DB coordinator
+- Laravel backend with Eloquent models and migrations
+- McHenry CRASH3 coefficients for forensic velocity estimation
+- Cross-functional team: backend, frontend, QA, AI
+
+**Repo:** https://github.com/renecano/cesvi-rat
+
+---
+
+### 📌 Sales & Inventory Registration System (Streamlit)
+Web application for small businesses to record sales, manage products, and view basic metrics.
+
+- Product registration · Sales log · Dashboards · PostgreSQL support
 
 **Repo:** https://github.com/renecano/ventas-inventario-streamlit
 
 ---
 
-# 🌱 IoT Plant Monitoring System (ESP8266 + MQTT + Flask + SQLite)
+### 🌱 IoT Plant Monitoring System (ESP8266 + MQTT + Flask + SQLite)
+End-to-end IoT system monitoring temperature and humidity. Data sent via MQTT, stored in SQLite, displayed on a real-time Flask dashboard.
 
-A complete IoT system that monitors temperature and humidity using an **ESP8266** with a **DHT11** sensor.  
-Sensor data is transmitted via **MQTT**, stored in **SQLite**, and displayed on a real-time dashboard built with **Flask + Bootstrap + Chart.js**.
-
-## Key Features
-
-- **ESP8266 firmware (C++)** with MQTT JSON publishing  
-- **Python backend** with MQTT subscriber  
-- **Local SQLite data storage**  
-- **Real-time web dashboard**  
-- **Clean, modular, scalable architecture**
+- ESP8266 firmware (C++) · Python MQTT subscriber · Chart.js dashboard
 
 **Repo:** https://github.com/renecano/IoT-Plant-Monitoring-System-ESP8266-MQTT-Flask-SQLite
 
 ---
 
 ### 📌 Fork/Join DAG Visualizer (Java + JavaFX)
-An interactive visualization tool that loads **Directed Acyclic Graphs (DAGs)**, draws them using a layered layout in **JavaFX**, and automatically generates **Fork/Join parallel code** from their structure.  
-Includes a step-by-step execution simulator with colored branches and full graph validation.
+> **Top 3 Digital Prototype – Expo Ingeniería, Tec de Monterrey Campus Toluca**
 
-**Achievements:**  
-- **Top 3 Digital Prototype – Expo Ingeniería, Tec de Monterrey Campus Toluca**
-
-**Features:**
-- DAG loading from `.txt` adjacency matrices  
-- Automatic BFS-based level computation  
-- JavaFX graph rendering with animations  
-- Auto-generated Fork/Join Java code  
-- Parallel execution simulation with branch coloring  
-- Structural validation (cycles, disconnected nodes, incorrect joins)
+Interactive tool that loads DAGs, renders them in JavaFX, and generates Fork/Join parallel code with execution simulation and structural validation.
 
 **Repo:** https://github.com/renecano/grafos-fork-join-visualizer
 
 ---
 
 ## 🔹 What I'm Working On
-- Expanding my Streamlit system with authentication and analytics  
-- Practicing algorithms and data structures  
-- Building IoT prototypes with ESP8266 and sensors  
-- Developing small software projects in Python and Java  
-- Exploring real applications of machine learning
+
+- Multi-intersection coordination with networked RL agents
+- Real sensor data integration for UrbanMind X
+- Expanding CESVI RAT with PDF report generation
+- Exploring transfer learning from simulation to real hardware
 
 ---
 
-## 🔹 My Focus Areas
-- Artificial Intelligence  
-- Big Data  
-- Backend Development  
-- Practical software solutions with real impact  
+## 🔹 Focus Areas
+
+- Reinforcement Learning & AI Systems
+- Full-Stack Web Development
+- Database Architecture & Forensic Data Platforms
+- Practical software solutions with real impact
 
 ---
 
 ## 🔹 Contact
-- **LinkedIn:** www.linkedin.com/in/rene-emiliano-cano-fuentes
+
+- **LinkedIn:** [linkedin.com/in/rene-emiliano-cano-fuentes](https://www.linkedin.com/in/rene-emiliano-cano-fuentes)
+- **Portfolio:** https://renecano.github.io
 - **Email:** renecano.f@gmail.com
-
----
-
-Thanks for visiting my profile!
